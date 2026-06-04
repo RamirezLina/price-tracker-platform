@@ -1,2 +1,2 @@
 # price-tracker-platform
-Repositorio que agrupa microservicios, frontend y documentación asociada a mi proyecto persona de crear una plataforma de seguimiento de precios, que permite tomar la decisión más informada en compras y descuentos
+Repositorio que agrupa microservicios, frontend y documentación asociada a mi proyecto personal: crear una plataforma de seguimiento de precios que permita tomar decisiones informadas a la hora de hacer compras y de evaluar descuentos en precios de productos.
