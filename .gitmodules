@@ -1,3 +1,3 @@
 [submodule "backend-scraper"]
 	path = backend-scraper
-	url = https://github.com/RamirezLina/products-web-scraping.git
+	url = git@github.com:RamirezLina/products-web-scraping.git
