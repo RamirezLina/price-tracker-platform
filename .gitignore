@@ -1,0 +1,39 @@
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+# IDE artifacts
+.idea/
+*.swp
+*.swo
+# Runtime artifacts
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+*.log
+# Secrets (safety net — should never be committed)
+*.pem
+*.key
+*.p12
+secrets/
+credentials/
+# GitHub Copilot — local overrides (por convención, no se versionan)
+.github/memory/
+
+# >>> sofka-cli auto-ignore — proprietary template files, do not commit >>>
+.mcp.json
+.mcp.recommended.json
+AGENTS.md
+ASDD-CHANGELOG.md
+ASDD-COPILOT-OVERVIEW.md
+ASDD-COPILOT-README.md
+ASDD-MEMORY.md
+ASDD-MIGRATION.md
+ASDD-VERSIONING.md
+.github/
+.sofka-asdd/
+docs/
+# <<< sofka-cli auto-ignore — do not edit between sentinels <<<
