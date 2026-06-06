@@ -1,3 +1,6 @@
 [submodule "backend-scraper"]
 	path = backend-scraper
 	url = git@github.com:RamirezLina/products-web-scraping.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:RamirezLina/price-tracker-front.git

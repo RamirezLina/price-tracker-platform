@@ -13,7 +13,7 @@ Global layout:
 - Include a dropdown for future product categories
 - User profile photo and username on the right
 
-Left sidebar:
+sidebar:
 - Products
 - Product Management
 
