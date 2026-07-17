@@ -36,4 +36,6 @@ ASDD-VERSIONING.md
 .github/
 .sofka-asdd/
 docs/
+.asdd-run.json
+ASDD-*
 # <<< sofka-cli auto-ignore — do not edit between sentinels <<<
